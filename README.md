@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi! My name is Matías! 👋
+#### I'm a Ux|Ui Developer. 💻
+I'm expanding my knowledge in the Coderhouse and Udemy platforms to develop myself as a ReactJS Front End Developer.🙌
 
-<!--
-**Matias-Benitez/Matias-Benitez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: HTML5 | CSS3 | SASS | Bootstrap | JavaScript | GitHub | Git
 
-Here are some ideas to get you started:
+- 🔭 Estoy trabajando en freelance projects 
+- 🌱 Estoy aprendiendo React.JS 
+- 📫 Cómo contactarme: mattias.benitez@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
