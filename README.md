@@ -4,9 +4,9 @@ I'm expanding my knowledge in the Coderhouse and Udemy platforms to develop myse
 
 Skills: HTML5 | CSS3 | SASS | Bootstrap | JavaScript | GitHub | Git
 
-- 🔭 Estoy trabajando en freelance projects 
-- 🌱 Estoy aprendiendo React.JS 
-- 📫 Cómo contactarme: mattias.benitez@gmail.com 
+- 🔭 I’m currently working on freelance projects 
+- 🌱 I’m currently learning React.JS 
+- 📫 How to reach me: mattias.benitez@gmail.com 
 
 
 
