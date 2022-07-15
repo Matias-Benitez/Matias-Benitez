@@ -7,6 +7,8 @@ Skills: HTML5 | CSS3 | SASS | Bootstrap | JavaScript | GitHub | Git
 - 🔭 I’m currently working on freelance projects 
 - 🌱 I’m currently learning React.JS 
 - 📫 How to reach me: mattias.benitez@gmail.com 
+- 📌 Palermo, Capital Federal. Argentina
+- 💼 https://www.linkedin.com/in/matías-benitez/
 
 
 
