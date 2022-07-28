@@ -1,5 +1,5 @@
 ## Hi! My name is Matías! 👋
-### I'm a Ux|Ui Developer. 💻
+### I'm a Front End Developer. 💻
 I'm expanding my knowledge in the Coderhouse and Udemy platforms to develop myself as a ReactJS Front End Developer. 🚀
 
 Skills: HTML5 | CSS3 | SASS | Bootstrap | JavaScript | GitHub | Git
