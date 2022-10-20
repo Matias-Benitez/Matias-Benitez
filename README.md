@@ -19,8 +19,8 @@
 
 <table align="center">
     <tr>              
-        <td><img src="https://github-readme-stats.vercel.app/api?username=matias-benitez&show_icons=true&theme=slateorange" alt="some text"></td>
-        <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=matias-benitez&show_icons=true&locale=en&layout=compact&theme=slateorange" alt="some text"></td>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=matias-benitez&show_icons=true&theme=tokyonight" alt="some text"></td>
+        <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=matias-benitez&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="some text"></td>
     </tr>
 </table>
 
