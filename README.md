@@ -1,21 +1,20 @@
 ![MasterHead](https://i.postimg.cc/yYwxtCS9/banner-github.gif)
 
-<h3 align="left">I'm a Front End Developer from Argentina </h3>
-<p align="left">I'm expanding my knowledge in the Coderhouse and Udemy platforms </p>
+<h3 align="left">I'm a Front End Developer from Argentina.</h3>
+<p align="left">I'm expanding my knowledge in the Coderhouse and Udemy platforms.</p>
 
 <img align="right" alt="Coding" width="250" src="https://i.postimg.cc/YCVLzmt6/Code.gif">
 <br/>
 
+- 💼 I’m currently working on **freelance projects**
 
-- 🔭 I’m currently working on **freelance projects**
-
-- 🌱 I’m currently learning **React.JS**
+- 🔭 I'm currently learning and exploring with **React.JS**
 
 - 👨‍💻 All of my projects are available at [https://matiasbenitez.netlify.app/](https://matiasbenitez.netlify.app/)
 
 - 📫 How to contact me **mattias.benitez@gmail.com**
   
-- 💼 https://www.linkedin.com/in/matías-benitez/
+- 🧰 Or also https://www.linkedin.com/in/matías-benitez/
 
 
 <table align="center">
