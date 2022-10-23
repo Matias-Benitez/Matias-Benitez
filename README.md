@@ -5,7 +5,7 @@
 
 
 
-- 💼 I’m currently working on **freelance projects**
+- 💼 I’m currently working on **FreeLancer projects**
 
 - 🔭 I'm currently learning and exploring with **React.JS**
 
