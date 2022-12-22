@@ -41,6 +41,12 @@
 [<img src="https://img.shields.io/badge/-Car_Search_Simulator-%23323330?style=flat-square"/>](https://car-search-simulator.netlify.app/) [<img src="https://img.shields.io/badge/-Mail_Simulator-%23E44D27?style=flat-square"/>](https://mail-simulator.netlify.app/) [<img src="https://img.shields.io/badge/-Ecommerce-%235a01d0?style=flat-square"/>](https://damp-tshirts.netlify.app/)
 [<img src="https://img.shields.io/badge/-To_Do_List-%2300749C?style=flat-square"/>](https://to-do-list-coderhouse.netlify.app/)
 
-
+<h4 align="center">🌎 Freelance jobs
+<br>
+<br>
+ 
+ [<img src="https://img.shields.io/badge/-Superwork-%2300749C?style=flat-square"/>](https://www.superwork.com.ar/) [<img src="https://img.shields.io/badge/-TMC_Solutions-%23E44D27?style=flat-square"/>](https://tmc-solutions.com.mx/) [<img src="https://img.shields.io/badge/-Ecommerce-%235a01d0?style=flat-square"/>](https://damp-tshirts.netlify.app/)
+[<img src="https://img.shields.io/badge/-Vg_English_School-%23323330?style=flat-square"/>](https://vg-english.netlify.app/) [<img 
+  
 
 
