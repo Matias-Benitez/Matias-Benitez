@@ -46,7 +46,7 @@
 <br>
  
  [<img src="https://img.shields.io/badge/-Superwork-%2300749C?style=flat-square"/>](https://www.superwork.com.ar/) [<img src="https://img.shields.io/badge/-TMC_Solutions-%23E44D27?style=flat-square"/>](https://tmc-solutions.com.mx/) [<img src="https://img.shields.io/badge/-Ecommerce-%235a01d0?style=flat-square"/>](https://damp-tshirts.netlify.app/)
-[<img src="https://img.shields.io/badge/-Vg_English_School-%23323330?style=flat-square"/>](https://vg-english.netlify.app/) [<img 
+[<img src="https://img.shields.io/badge/-Vg_English_School-%23323330?style=flat-square"/>](https://vg-english.netlify.app/) 
   
 
 
