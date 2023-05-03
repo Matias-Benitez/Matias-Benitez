@@ -1,4 +1,4 @@
-![MasterHead](https://i.postimg.cc/yYwxtCS9/banner-github.gif)
+![MasterHead](https://i.postimg.cc/0jf0hkdR/matias-benitez-website.png)
 
 <h3 align="left">I'm a Front End Developer from Argentina.</h3>
 <p align="left">I'm expanding my knowledge in the Coderhouse and Udemy platforms.</p>
